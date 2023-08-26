@@ -23,7 +23,7 @@ Welcome to this repository, where we delve deep into the world of football. Usin
 
 The analysis began with a comprehensive exploratory phase in Tableau, which set the stage for subsequent in-depth analyses. This was not just about predicting values but also understanding patterns, relationships, and potential avenues of interest. Post this, the data was wrangled and cleansed, making it ripe for PySpark's powerful analytical capabilities.
 
-A nice visualisation of cumulative player ability can be seen below, just a quick example of one of the plots contained within the ![Notebook](Utilising%20Big%20Data%20Analytics%20techniques%20on%20Football%20Manager%20player%20data.pdf)
+A nice visualisation of cumulative player ability can be seen below, just a quick example of one of the plots contained within the [Notebook](Utilising%20Big%20Data%20Analytics%20techniques%20on%20Football%20Manager%20player%20data.pdf)
 
 ![Cumulative Player Ability](Heatmap_of_cumulative_player_ability.png)
 
